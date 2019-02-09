@@ -20,11 +20,6 @@ To set up contact form:
 2. Make directory php/temp writeable (change attributes to 777)
 3. Edit the options in contact.php file. The most important are: `$from` and `$sendTo`. The rest can remain as it is.
 
-Thank you for downloading!
-
-In case you would need some custom modifications, don't hesitate to get in touch.
-
-ondrique, (ahoj@ondrejsvestka.cz)
 
 ## Credits ##
 
@@ -55,22 +50,3 @@ ondrique, (ahoj@ondrejsvestka.cz)
 
 - Markus Spiske ([https://www.flickr.com/photos/125167502@N02/](https://www.flickr.com/photos/125167502@N02/))
 
----------------------
- LICENSE CONDITIONS
----------------------
-
-You are completely free to use this template for your personal use or as a work for your client as long as you keep the link at the template footer pointing to us and our partner. 
-
-If you would prefer removing the backlink from the theme footer, please donate (https://bootstrapious.com/donate) to support themes' development. Suggested amount per template is $10.
-
-However you cannot redistribute the template nor its derivatives on the internet - neither for free or commercially (e.g. selling it on template marketplace).
-
-Thank you for understanding and respecting the license conditions.
-
-If more info needed, contact me at hello@bootstrapious.com.
-
----------------------
- GET IN TOUCH ;)
----------------------
-
-https://twitter.com/bootstrapious | https://google.com/+Bootstrapious1 | https://www.facebook.com/bootstrapious | hello@bootstrapious.com
