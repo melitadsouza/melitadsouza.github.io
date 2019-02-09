@@ -1,18 +1,3 @@
-################################################################################################
-
-IT Worker for Designer Template by Bootstrapious - http://bootstrapious.com
-
-################################################################################################
-
-Hi,
-
-thank you for downloading. Have fun and tell your friends about us ;)
-
-Ondrej from Bootstrapious
-
-
-*Everything is kept simple so you should not have any problems implementing the template. I will try to answer few of the possible questions below.*
-
 
 **Changing the colour of the theme**
 
